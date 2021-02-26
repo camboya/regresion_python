@@ -13,5 +13,5 @@ __Ejercicios para que el alumno desarrolle lo visto en clase__\
 ejercicios_practica
 
 # Consultas
-alumnos@inove.com.ar
+alumnos@inove.com.a
 
